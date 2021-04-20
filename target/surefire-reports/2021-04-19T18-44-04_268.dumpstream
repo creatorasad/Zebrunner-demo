@@ -1,0 +1,24 @@
+# Created on 2021-04-19T18:44:04.269
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+# Created on 2021-04-19T18:44:04.269
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created on 2021-04-19T18:44:04.270
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+# Created on 2021-04-19T18:44:17.272
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2021-04-19T18:44:17.273
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/Users/applea1278/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+
+# Created on 2021-04-19T18:44:17.282
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+
+# Created on 2021-04-19T18:44:17.313
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2021-04-19T18:44:17.314
+WARNING: All illegal access operations will be denied in a future release
+

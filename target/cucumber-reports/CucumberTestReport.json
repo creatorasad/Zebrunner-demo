@@ -1,0 +1,106 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Lambdatest ToDO Scenario",
+        "description": "",
+        "id": "add-new-item-to-todo-list;lambdatest-todo-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14448115525,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on home Page",
+            "match": {
+              "location": "ToDoStepDefinition.user_already_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1368014101,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "select First Item",
+            "match": {
+              "location": "ToDoStepDefinition.select_first_item()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1589233442,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "select second item",
+            "match": {
+              "location": "ToDoStepDefinition.select_second_item()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4497584412,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "add new item",
+            "match": {
+              "location": "ToDoStepDefinition.add_new_item()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1366024983,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "verify added item",
+            "match": {
+              "location": "ToDoStepDefinition.verify_added_item()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1441529859,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Update the result",
+            "match": {
+              "location": "ToDoStepDefinition.update_result()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1264343953,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Close the browser",
+            "match": {
+              "location": "ToDoStepDefinition.close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Add new item to ToDO list",
+    "description": "",
+    "id": "add-new-item-to-todo-list",
+    "keyword": "Feature",
+    "uri": "todo.feature"
+  }
+]

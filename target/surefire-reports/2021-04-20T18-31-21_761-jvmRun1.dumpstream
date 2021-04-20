@@ -1,0 +1,36 @@
+# Created at 2021-04-20T18:31:24.625
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:23,960 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]'.
+
+# Created at 2021-04-20T18:31:24.629
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:23,963 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]'.
+
+# Created at 2021-04-20T18:31:24.630
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:23,966 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/Users/applea1278/Downloads/Cucumber-TestNG-Selenium-zebrunner/target/classes/logback.xml]'.
+
+# Created at 2021-04-20T18:31:24.631
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,450 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set'.
+
+# Created at 2021-04-20T18:31:24.632
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,452 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [com.zebrunner.agent.core.logging.logback.ReportingAppender]'.
+
+# Created at 2021-04-20T18:31:24.633
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,491 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [ZebrunnerAppender]'.
+
+# Created at 2021-04-20T18:31:24.634
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,510 |-ERROR in ch.qos.logback.core.joran.spi.Interpreter@4:18 - no applicable action for [encoder], current ElementPath  is [[configuration][appender][encoder]]'.
+
+# Created at 2021-04-20T18:31:24.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,510 |-ERROR in ch.qos.logback.core.joran.spi.Interpreter@5:22 - no applicable action for [pattern], current ElementPath  is [[configuration][appender][encoder][pattern]]'.
+
+# Created at 2021-04-20T18:31:24.636
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,510 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO'.
+
+# Created at 2021-04-20T18:31:24.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,511 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [ZebrunnerAppender] to Logger[ROOT]'.
+
+# Created at 2021-04-20T18:31:24.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,512 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.'.
+
+# Created at 2021-04-20T18:31:24.639
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '18:31:24,515 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@6e1567f1 - Registering current configuration as safe fallback point'.
+

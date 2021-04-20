@@ -1,0 +1,5 @@
+reporting:
+ enabled: true
+ server:
+  hostname: https://lambdatest.zebrunner.com
+  access-token: eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSMlbSUSpILC4uzy9KAXK9ykxK0pLSkjP9ciPNjEqD8wsLgtKzTBPTqpJLjV3CKoGqS1LzEvNKgGpzEnOTUhJLUotLgKKZxcVAoczEXCA7taJAycrY3MzM2MDCyMS8FgBcxIJNbAAAAA.oQGVBpexTIAfGevxr1GtKRLS2lSKYpZwW9TSOl9ky7OA9kfEvEzN2SKD47k8q7Vs7a0mYqEMNJrdd1i1zPZ92Q
